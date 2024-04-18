@@ -1,4 +1,4 @@
-# Windows 1/11
+# Windows 10/11
 
 1. Install(update) AppInstaller from Microsoft Store https://apps.microsoft.com/detail/9NBLGGH4NNS1?hl=en-us&gl=US
 
