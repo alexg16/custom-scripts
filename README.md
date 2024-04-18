@@ -11,7 +11,7 @@ winget upgrade --all
 
 4. 
 ```shell
-
+winget install git.git --silent --accept-source-agreements --accept-package-agreements
 ```
 
 5.
